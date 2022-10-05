@@ -1,0 +1,9 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contenedor {
+    display: grid;
+    justify-content: center;
+    align-items: center
+}
