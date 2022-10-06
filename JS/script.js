@@ -36,7 +36,7 @@ function funcionResta(num1, num2) {
 function funcionDivision(num1, num2) {
     var divisiones;
     divisiones = num1 / num2;
-    return divisiones
+    return divisiones;
 }
 //MULTIPLICACIÓN
 function funcionMultiplicacion(num1, num2) {
