@@ -58,3 +58,10 @@ console.log(funcionResta(num1, num2));
 console.log(funcionDivision(num1, num2));
 console.log(funcionMultiplicacion(num1, num2));
 console.log(funcionModulo(num1, num2));
+
+//CREAR UN TIPO DE ARRAY Y RECORRERLO
+
+var persona = ['Zahira', 'Fernandez', 17];
+persona.forEach(function(per) {
+    console.log(per);
+});
